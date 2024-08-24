@@ -1,0 +1,7 @@
+D:\Arquivos\Desktop\Boot Camp\API-Lista Telefonica\api-agenda-telefonica\api-agenda-telefonica\bin\Debug\api-agenda-telefonica.exe.config
+D:\Arquivos\Desktop\Boot Camp\API-Lista Telefonica\api-agenda-telefonica\api-agenda-telefonica\bin\Debug\api-agenda-telefonica.exe
+D:\Arquivos\Desktop\Boot Camp\API-Lista Telefonica\api-agenda-telefonica\api-agenda-telefonica\bin\Debug\api-agenda-telefonica.pdb
+D:\Arquivos\Desktop\Boot Camp\API-Lista Telefonica\api-agenda-telefonica\api-agenda-telefonica\obj\Debug\api-agenda-telefonica.csproj.AssemblyReference.cache
+D:\Arquivos\Desktop\Boot Camp\API-Lista Telefonica\api-agenda-telefonica\api-agenda-telefonica\obj\Debug\api-agenda-telefonica.csproj.CoreCompileInputs.cache
+D:\Arquivos\Desktop\Boot Camp\API-Lista Telefonica\api-agenda-telefonica\api-agenda-telefonica\obj\Debug\api-agenda-telefonica.exe
+D:\Arquivos\Desktop\Boot Camp\API-Lista Telefonica\api-agenda-telefonica\api-agenda-telefonica\obj\Debug\api-agenda-telefonica.pdb
