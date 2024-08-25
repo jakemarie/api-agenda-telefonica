@@ -1,0 +1,65 @@
+C:\Users\Usuario\source\repos\API_listaTelefone\API_listaTelefone\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Usuario\source\repos\API_listaTelefone\API_listaTelefone\bin\Debug\net8.0\appsettings.json
+C:\Users\Usuario\source\repos\API_listaTelefone\API_listaTelefone\bin\Debug\net8.0\API_listaTelefone.exe
+C:\Users\Usuario\source\repos\API_listaTelefone\API_listaTelefone\bin\Debug\net8.0\API_listaTelefone.deps.json
+C:\Users\Usuario\source\repos\API_listaTelefone\API_listaTelefone\bin\Debug\net8.0\API_listaTelefone.runtimeconfig.json
+C:\Users\Usuario\source\repos\API_listaTelefone\API_listaTelefone\bin\Debug\net8.0\API_listaTelefone.dll
+C:\Users\Usuario\source\repos\API_listaTelefone\API_listaTelefone\bin\Debug\net8.0\API_listaTelefone.pdb
+C:\Users\Usuario\source\repos\API_listaTelefone\API_listaTelefone\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Usuario\source\repos\API_listaTelefone\API_listaTelefone\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Usuario\source\repos\API_listaTelefone\API_listaTelefone\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Usuario\source\repos\API_listaTelefone\API_listaTelefone\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Usuario\source\repos\API_listaTelefone\API_listaTelefone\obj\Debug\net8.0\API_listaTelefone.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\API_listaTelefone\API_listaTelefone\obj\Debug\net8.0\API_listaTelefone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\API_listaTelefone\API_listaTelefone\obj\Debug\net8.0\API_listaTelefone.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\API_listaTelefone\API_listaTelefone\obj\Debug\net8.0\API_listaTelefone.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\API_listaTelefone\API_listaTelefone\obj\Debug\net8.0\API_listaTelefone.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\API_listaTelefone\API_listaTelefone\obj\Debug\net8.0\API_listaTelefone.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Usuario\source\repos\API_listaTelefone\API_listaTelefone\obj\Debug\net8.0\API_listaTelefone.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\source\repos\API_listaTelefone\API_listaTelefone\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Usuario\source\repos\API_listaTelefone\API_listaTelefone\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Usuario\source\repos\API_listaTelefone\API_listaTelefone\obj\Debug\net8.0\staticwebassets\msbuild.API_listaTelefone.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Usuario\source\repos\API_listaTelefone\API_listaTelefone\obj\Debug\net8.0\staticwebassets\msbuild.build.API_listaTelefone.props
+C:\Users\Usuario\source\repos\API_listaTelefone\API_listaTelefone\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.API_listaTelefone.props
+C:\Users\Usuario\source\repos\API_listaTelefone\API_listaTelefone\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.API_listaTelefone.props
+C:\Users\Usuario\source\repos\API_listaTelefone\API_listaTelefone\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Usuario\source\repos\API_listaTelefone\API_listaTelefone\obj\Debug\net8.0\scopedcss\bundle\API_listaTelefone.styles.css
+C:\Users\Usuario\source\repos\API_listaTelefone\API_listaTelefone\obj\Debug\net8.0\API_list.F3E50F3E.Up2Date
+C:\Users\Usuario\source\repos\API_listaTelefone\API_listaTelefone\obj\Debug\net8.0\API_listaTelefone.dll
+C:\Users\Usuario\source\repos\API_listaTelefone\API_listaTelefone\obj\Debug\net8.0\refint\API_listaTelefone.dll
+C:\Users\Usuario\source\repos\API_listaTelefone\API_listaTelefone\obj\Debug\net8.0\API_listaTelefone.pdb
+C:\Users\Usuario\source\repos\API_listaTelefone\API_listaTelefone\obj\Debug\net8.0\API_listaTelefone.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\API_listaTelefone\API_listaTelefone\obj\Debug\net8.0\ref\API_listaTelefone.dll
+D:\Arquivos\Desktop\Boot Camp\API-Lista Telefonica\api-agenda-telefonica\API_listaTelefone\bin\Debug\net8.0\appsettings.Development.json
+D:\Arquivos\Desktop\Boot Camp\API-Lista Telefonica\api-agenda-telefonica\API_listaTelefone\bin\Debug\net8.0\appsettings.json
+D:\Arquivos\Desktop\Boot Camp\API-Lista Telefonica\api-agenda-telefonica\API_listaTelefone\bin\Debug\net8.0\API_listaTelefone.exe
+D:\Arquivos\Desktop\Boot Camp\API-Lista Telefonica\api-agenda-telefonica\API_listaTelefone\bin\Debug\net8.0\API_listaTelefone.deps.json
+D:\Arquivos\Desktop\Boot Camp\API-Lista Telefonica\api-agenda-telefonica\API_listaTelefone\bin\Debug\net8.0\API_listaTelefone.runtimeconfig.json
+D:\Arquivos\Desktop\Boot Camp\API-Lista Telefonica\api-agenda-telefonica\API_listaTelefone\bin\Debug\net8.0\API_listaTelefone.dll
+D:\Arquivos\Desktop\Boot Camp\API-Lista Telefonica\api-agenda-telefonica\API_listaTelefone\bin\Debug\net8.0\API_listaTelefone.pdb
+D:\Arquivos\Desktop\Boot Camp\API-Lista Telefonica\api-agenda-telefonica\API_listaTelefone\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Arquivos\Desktop\Boot Camp\API-Lista Telefonica\api-agenda-telefonica\API_listaTelefone\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Arquivos\Desktop\Boot Camp\API-Lista Telefonica\api-agenda-telefonica\API_listaTelefone\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Arquivos\Desktop\Boot Camp\API-Lista Telefonica\api-agenda-telefonica\API_listaTelefone\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Arquivos\Desktop\Boot Camp\API-Lista Telefonica\api-agenda-telefonica\API_listaTelefone\obj\Debug\net8.0\API_listaTelefone.csproj.AssemblyReference.cache
+D:\Arquivos\Desktop\Boot Camp\API-Lista Telefonica\api-agenda-telefonica\API_listaTelefone\obj\Debug\net8.0\API_listaTelefone.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos\Desktop\Boot Camp\API-Lista Telefonica\api-agenda-telefonica\API_listaTelefone\obj\Debug\net8.0\API_listaTelefone.AssemblyInfoInputs.cache
+D:\Arquivos\Desktop\Boot Camp\API-Lista Telefonica\api-agenda-telefonica\API_listaTelefone\obj\Debug\net8.0\API_listaTelefone.AssemblyInfo.cs
+D:\Arquivos\Desktop\Boot Camp\API-Lista Telefonica\api-agenda-telefonica\API_listaTelefone\obj\Debug\net8.0\API_listaTelefone.csproj.CoreCompileInputs.cache
+D:\Arquivos\Desktop\Boot Camp\API-Lista Telefonica\api-agenda-telefonica\API_listaTelefone\obj\Debug\net8.0\API_listaTelefone.MvcApplicationPartsAssemblyInfo.cs
+D:\Arquivos\Desktop\Boot Camp\API-Lista Telefonica\api-agenda-telefonica\API_listaTelefone\obj\Debug\net8.0\API_listaTelefone.MvcApplicationPartsAssemblyInfo.cache
+D:\Arquivos\Desktop\Boot Camp\API-Lista Telefonica\api-agenda-telefonica\API_listaTelefone\obj\Debug\net8.0\API_listaTelefone.sourcelink.json
+D:\Arquivos\Desktop\Boot Camp\API-Lista Telefonica\api-agenda-telefonica\API_listaTelefone\obj\Debug\net8.0\staticwebassets.build.json
+D:\Arquivos\Desktop\Boot Camp\API-Lista Telefonica\api-agenda-telefonica\API_listaTelefone\obj\Debug\net8.0\staticwebassets.development.json
+D:\Arquivos\Desktop\Boot Camp\API-Lista Telefonica\api-agenda-telefonica\API_listaTelefone\obj\Debug\net8.0\staticwebassets\msbuild.API_listaTelefone.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Arquivos\Desktop\Boot Camp\API-Lista Telefonica\api-agenda-telefonica\API_listaTelefone\obj\Debug\net8.0\staticwebassets\msbuild.build.API_listaTelefone.props
+D:\Arquivos\Desktop\Boot Camp\API-Lista Telefonica\api-agenda-telefonica\API_listaTelefone\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.API_listaTelefone.props
+D:\Arquivos\Desktop\Boot Camp\API-Lista Telefonica\api-agenda-telefonica\API_listaTelefone\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.API_listaTelefone.props
+D:\Arquivos\Desktop\Boot Camp\API-Lista Telefonica\api-agenda-telefonica\API_listaTelefone\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Arquivos\Desktop\Boot Camp\API-Lista Telefonica\api-agenda-telefonica\API_listaTelefone\obj\Debug\net8.0\scopedcss\bundle\API_listaTelefone.styles.css
+D:\Arquivos\Desktop\Boot Camp\API-Lista Telefonica\api-agenda-telefonica\API_listaTelefone\obj\Debug\net8.0\API_list.F3E50F3E.Up2Date
+D:\Arquivos\Desktop\Boot Camp\API-Lista Telefonica\api-agenda-telefonica\API_listaTelefone\obj\Debug\net8.0\API_listaTelefone.dll
+D:\Arquivos\Desktop\Boot Camp\API-Lista Telefonica\api-agenda-telefonica\API_listaTelefone\obj\Debug\net8.0\refint\API_listaTelefone.dll
+D:\Arquivos\Desktop\Boot Camp\API-Lista Telefonica\api-agenda-telefonica\API_listaTelefone\obj\Debug\net8.0\API_listaTelefone.pdb
+D:\Arquivos\Desktop\Boot Camp\API-Lista Telefonica\api-agenda-telefonica\API_listaTelefone\obj\Debug\net8.0\API_listaTelefone.genruntimeconfig.cache
+D:\Arquivos\Desktop\Boot Camp\API-Lista Telefonica\api-agenda-telefonica\API_listaTelefone\obj\Debug\net8.0\ref\API_listaTelefone.dll

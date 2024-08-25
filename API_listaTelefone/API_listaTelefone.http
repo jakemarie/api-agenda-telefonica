@@ -1,0 +1,6 @@
+@API_listaTelefone_HostAddress = http://localhost:5177
+
+GET {{API_listaTelefone_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
