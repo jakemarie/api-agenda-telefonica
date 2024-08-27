@@ -7,6 +7,6 @@ namespace API_listaTelefone.Models
         [Key]
         public long Id { get; set; }
         public int numero { get; set; }
-        public long pessoaId { get; set; }
+        public required Pessoa pessoa { get; set; }
     }
 }

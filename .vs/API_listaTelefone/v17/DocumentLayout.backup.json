@@ -3,32 +3,24 @@
   "WorkspaceRootPath": "D:\\Arquivos\\Desktop\\Boot Camp\\API-Lista Telefonica\\api-agenda-telefonica\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{14F58E9F-2488-48B7-8D94-6307CDF189D0}|API_listaTelefone\\API_listaTelefone.csproj|d:\\arquivos\\desktop\\boot camp\\api-lista telefonica\\api-agenda-telefonica\\api_listatelefone\\datacontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14F58E9F-2488-48B7-8D94-6307CDF189D0}|API_listaTelefone\\API_listaTelefone.csproj|solutionrelative:api_listatelefone\\datacontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14F58E9F-2488-48B7-8D94-6307CDF189D0}|API_listaTelefone\\API_listaTelefone.csproj|d:\\arquivos\\desktop\\boot camp\\api-lista telefonica\\api-agenda-telefonica\\api_listatelefone\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{14F58E9F-2488-48B7-8D94-6307CDF189D0}|API_listaTelefone\\API_listaTelefone.csproj|solutionrelative:api_listatelefone\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{14F58E9F-2488-48B7-8D94-6307CDF189D0}|API_listaTelefone\\API_listaTelefone.csproj|d:\\arquivos\\desktop\\boot camp\\api-lista telefonica\\api-agenda-telefonica\\api_listatelefone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{14F58E9F-2488-48B7-8D94-6307CDF189D0}|API_listaTelefone\\API_listaTelefone.csproj|solutionrelative:api_listatelefone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14F58E9F-2488-48B7-8D94-6307CDF189D0}|API_listaTelefone\\API_listaTelefone.csproj|d:\\arquivos\\desktop\\boot camp\\api-lista telefonica\\api-agenda-telefonica\\api_listatelefone\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14F58E9F-2488-48B7-8D94-6307CDF189D0}|API_listaTelefone\\API_listaTelefone.csproj|solutionrelative:api_listatelefone\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{14F58E9F-2488-48B7-8D94-6307CDF189D0}|API_listaTelefone\\API_listaTelefone.csproj|d:\\arquivos\\desktop\\boot camp\\api-lista telefonica\\api-agenda-telefonica\\api_listatelefone\\controllers\\pessoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14F58E9F-2488-48B7-8D94-6307CDF189D0}|API_listaTelefone\\API_listaTelefone.csproj|solutionrelative:api_listatelefone\\controllers\\pessoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14F58E9F-2488-48B7-8D94-6307CDF189D0}|API_listaTelefone\\API_listaTelefone.csproj|d:\\arquivos\\desktop\\boot camp\\api-lista telefonica\\api-agenda-telefonica\\api_listatelefone\\service\\pessoaservice\\ipessoaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14F58E9F-2488-48B7-8D94-6307CDF189D0}|API_listaTelefone\\API_listaTelefone.csproj|solutionrelative:api_listatelefone\\service\\pessoaservice\\ipessoaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14F58E9F-2488-48B7-8D94-6307CDF189D0}|API_listaTelefone\\API_listaTelefone.csproj|d:\\arquivos\\desktop\\boot camp\\api-lista telefonica\\api-agenda-telefonica\\api_listatelefone\\service\\pessoaservice\\pessoaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14F58E9F-2488-48B7-8D94-6307CDF189D0}|API_listaTelefone\\API_listaTelefone.csproj|solutionrelative:api_listatelefone\\service\\pessoaservice\\pessoaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{14F58E9F-2488-48B7-8D94-6307CDF189D0}|API_listaTelefone\\API_listaTelefone.csproj|d:\\arquivos\\desktop\\boot camp\\api-lista telefonica\\api-agenda-telefonica\\api_listatelefone\\models\\telefone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{14F58E9F-2488-48B7-8D94-6307CDF189D0}|API_listaTelefone\\API_listaTelefone.csproj|solutionrelative:api_listatelefone\\models\\telefone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14F58E9F-2488-48B7-8D94-6307CDF189D0}|API_listaTelefone\\API_listaTelefone.csproj|d:\\arquivos\\desktop\\boot camp\\api-lista telefonica\\api-agenda-telefonica\\api_listatelefone\\models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14F58E9F-2488-48B7-8D94-6307CDF189D0}|API_listaTelefone\\API_listaTelefone.csproj|solutionrelative:api_listatelefone\\models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14F58E9F-2488-48B7-8D94-6307CDF189D0}|API_listaTelefone\\API_listaTelefone.csproj|d:\\arquivos\\desktop\\boot camp\\api-lista telefonica\\api-agenda-telefonica\\api_listatelefone\\migrations\\20240825214536_first-migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14F58E9F-2488-48B7-8D94-6307CDF189D0}|API_listaTelefone\\API_listaTelefone.csproj|solutionrelative:api_listatelefone\\migrations\\20240825214536_first-migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,22 +30,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Pessoa.cs",
-              "DocumentMoniker": "D:\\Arquivos\\Desktop\\Boot Camp\\API-Lista Telefonica\\api-agenda-telefonica\\API_listaTelefone\\Models\\Pessoa.cs",
-              "RelativeDocumentMoniker": "API_listaTelefone\\Models\\Pessoa.cs",
-              "ToolTip": "D:\\Arquivos\\Desktop\\Boot Camp\\API-Lista Telefonica\\api-agenda-telefonica\\API_listaTelefone\\Models\\Pessoa.cs",
-              "RelativeToolTip": "API_listaTelefone\\Models\\Pessoa.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T19:56:49.449Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 4,
@@ -62,23 +40,23 @@
               "RelativeDocumentMoniker": "API_listaTelefone\\Models\\Telefone.cs",
               "ToolTip": "D:\\Arquivos\\Desktop\\Boot Camp\\API-Lista Telefonica\\api-agenda-telefonica\\API_listaTelefone\\Models\\Telefone.cs",
               "RelativeToolTip": "API_listaTelefone\\Models\\Telefone.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T19:57:23.082Z",
+              "WhenOpened": "2024-08-27T01:56:11.36Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "20240825214536_first-migration.cs",
-              "DocumentMoniker": "D:\\Arquivos\\Desktop\\Boot Camp\\API-Lista Telefonica\\api-agenda-telefonica\\API_listaTelefone\\Migrations\\20240825214536_first-migration.cs",
-              "RelativeDocumentMoniker": "API_listaTelefone\\Migrations\\20240825214536_first-migration.cs",
-              "ToolTip": "D:\\Arquivos\\Desktop\\Boot Camp\\API-Lista Telefonica\\api-agenda-telefonica\\API_listaTelefone\\Migrations\\20240825214536_first-migration.cs",
-              "RelativeToolTip": "API_listaTelefone\\Migrations\\20240825214536_first-migration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Arquivos\\Desktop\\Boot Camp\\API-Lista Telefonica\\api-agenda-telefonica\\API_listaTelefone\\Program.cs",
+              "RelativeDocumentMoniker": "API_listaTelefone\\Program.cs",
+              "ToolTip": "D:\\Arquivos\\Desktop\\Boot Camp\\API-Lista Telefonica\\api-agenda-telefonica\\API_listaTelefone\\Program.cs*",
+              "RelativeToolTip": "API_listaTelefone\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T21:45:37.322Z",
+              "WhenOpened": "2024-08-27T03:19:06.586Z",
               "EditorCaption": ""
             },
             {
@@ -87,54 +65,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Arquivos\\Desktop\\Boot Camp\\API-Lista Telefonica\\api-agenda-telefonica\\API_listaTelefone\\Program.cs",
-              "RelativeDocumentMoniker": "API_listaTelefone\\Program.cs",
-              "ToolTip": "D:\\Arquivos\\Desktop\\Boot Camp\\API-Lista Telefonica\\api-agenda-telefonica\\API_listaTelefone\\Program.cs",
-              "RelativeToolTip": "API_listaTelefone\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "PessoaService.cs",
+              "DocumentMoniker": "D:\\Arquivos\\Desktop\\Boot Camp\\API-Lista Telefonica\\api-agenda-telefonica\\API_listaTelefone\\Service\\PessoaService\\PessoaService.cs",
+              "RelativeDocumentMoniker": "API_listaTelefone\\Service\\PessoaService\\PessoaService.cs",
+              "ToolTip": "D:\\Arquivos\\Desktop\\Boot Camp\\API-Lista Telefonica\\api-agenda-telefonica\\API_listaTelefone\\Service\\PessoaService\\PessoaService.cs",
+              "RelativeToolTip": "API_listaTelefone\\Service\\PessoaService\\PessoaService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T21:21:00.534Z",
+              "WhenOpened": "2024-08-27T02:33:23.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IPessoaService.cs",
+              "DocumentMoniker": "D:\\Arquivos\\Desktop\\Boot Camp\\API-Lista Telefonica\\api-agenda-telefonica\\API_listaTelefone\\Service\\PessoaService\\IPessoaService.cs",
+              "RelativeDocumentMoniker": "API_listaTelefone\\Service\\PessoaService\\IPessoaService.cs",
+              "ToolTip": "D:\\Arquivos\\Desktop\\Boot Camp\\API-Lista Telefonica\\api-agenda-telefonica\\API_listaTelefone\\Service\\PessoaService\\IPessoaService.cs",
+              "RelativeToolTip": "API_listaTelefone\\Service\\PessoaService\\IPessoaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T02:29:02.096Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Arquivos\\Desktop\\Boot Camp\\API-Lista Telefonica\\api-agenda-telefonica\\API_listaTelefone\\appsettings.json",
-              "RelativeDocumentMoniker": "API_listaTelefone\\appsettings.json",
-              "ToolTip": "D:\\Arquivos\\Desktop\\Boot Camp\\API-Lista Telefonica\\api-agenda-telefonica\\API_listaTelefone\\appsettings.json",
-              "RelativeToolTip": "API_listaTelefone\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-25T21:02:49.735Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "D:\\Arquivos\\Desktop\\Boot Camp\\API-Lista Telefonica\\api-agenda-telefonica\\API_listaTelefone\\DataContext\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "API_listaTelefone\\DataContext\\ApplicationDbContext.cs",
-              "ToolTip": "D:\\Arquivos\\Desktop\\Boot Camp\\API-Lista Telefonica\\api-agenda-telefonica\\API_listaTelefone\\DataContext\\ApplicationDbContext.cs",
-              "RelativeToolTip": "API_listaTelefone\\DataContext\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAA4wAwAAAA3AAAAAAAAAA==",
+              "Title": "PessoaController.cs",
+              "DocumentMoniker": "D:\\Arquivos\\Desktop\\Boot Camp\\API-Lista Telefonica\\api-agenda-telefonica\\API_listaTelefone\\Controllers\\PessoaController.cs",
+              "RelativeDocumentMoniker": "API_listaTelefone\\Controllers\\PessoaController.cs",
+              "ToolTip": "D:\\Arquivos\\Desktop\\Boot Camp\\API-Lista Telefonica\\api-agenda-telefonica\\API_listaTelefone\\Controllers\\PessoaController.cs",
+              "RelativeToolTip": "API_listaTelefone\\Controllers\\PessoaController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABMAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T20:48:13.992Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "D:\\Arquivos\\Desktop\\Boot Camp\\API-Lista Telefonica\\api-agenda-telefonica\\API_listaTelefone\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "API_listaTelefone\\WeatherForecast.cs",
-              "ToolTip": "D:\\Arquivos\\Desktop\\Boot Camp\\API-Lista Telefonica\\api-agenda-telefonica\\API_listaTelefone\\WeatherForecast.cs",
-              "RelativeToolTip": "API_listaTelefone\\WeatherForecast.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T19:33:16.254Z",
+              "WhenOpened": "2024-08-27T02:11:06.697Z",
               "EditorCaption": ""
             }
           ]
