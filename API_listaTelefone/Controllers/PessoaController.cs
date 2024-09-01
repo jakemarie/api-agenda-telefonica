@@ -3,6 +3,7 @@ using API_listaTelefone.Models;
 using API_listaTelefone.Service.PessoaService;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using System.Collections.Generic;
 
 namespace API_listaTelefone.Controllers
 {
@@ -22,6 +23,19 @@ namespace API_listaTelefone.Controllers
             return Ok(_pessoaService.GetPessoa());
         }
 
+        [HttpGet("{id}")]
+        public async Task<ActionResult<List<Pessoa>>> GetPessoaById(int id)
+        {
+            ServiceResponse<Pessoa> serviceResponse = await _pessoaService.GetPessoaById(id);
+
+            return Ok(serviceResponse);
+        }
+
+        [HttpPost]
+        public async Task<ActionResult<List<Pessoa>>> CreatePessoa(Pessoa novaPessoa) 
+        {
+            return Ok(_pessoaService.CreatePessoa(novaPessoa));
+        }
 
     }
 }
