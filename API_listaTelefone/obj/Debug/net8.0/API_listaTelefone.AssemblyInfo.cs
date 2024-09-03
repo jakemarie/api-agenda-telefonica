@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("API_listaTelefone")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+811186cfd45cb5321ed7bc502545a93d44e880d2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f2282c60ffc57528c6fcc216ae7533f22aa610e0")]
 [assembly: System.Reflection.AssemblyProductAttribute("API_listaTelefone")]
 [assembly: System.Reflection.AssemblyTitleAttribute("API_listaTelefone")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

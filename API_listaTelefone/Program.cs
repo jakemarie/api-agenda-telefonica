@@ -1,5 +1,6 @@
 using API_listaTelefone.DataContext;
 using API_listaTelefone.Service.PessoaService;
+using API_listaTelefone.Service.TelefoneService;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 
@@ -12,6 +13,7 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddScoped<IPessoaService, PessoaService>();
+builder.Services.AddScoped<ITelefoneService, TelefoneService>();
 
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
 {

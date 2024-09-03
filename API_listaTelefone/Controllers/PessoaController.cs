@@ -32,10 +32,27 @@ namespace API_listaTelefone.Controllers
         }
 
         [HttpPost]
-        public async Task<ActionResult<List<Pessoa>>> CreatePessoa(Pessoa novaPessoa) 
+        public async Task<ActionResult<ServiceResponse<List<Pessoa>>>> CreatePessoa(Pessoa novaPessoa) 
         {
-            return Ok(_pessoaService.CreatePessoa(novaPessoa));
+            return Ok(await _pessoaService.CreatePessoa(novaPessoa));
+
         }
 
+        [HttpDelete]
+        public async Task<ActionResult<ServiceResponse<List<Pessoa>>>> DeletePessoa(int id)
+        {
+            ServiceResponse<List<Pessoa>> serviceResponse = await _pessoaService.DeletePessoa(id);
+
+            return Ok(serviceResponse);
+            
+        }
+
+        [HttpPut]
+        public async Task<ActionResult<ServiceResponse<List<Pessoa>>>> UpdatePessoa(Pessoa editadoPessoa)
+        {
+            ServiceResponse<List<Pessoa>> serviceResponse = await _pessoaService.UpdatePessoa(editadoPessoa);
+
+            return Ok(serviceResponse);
+        }
     }
 }

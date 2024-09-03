@@ -1,5 +1,6 @@
 ﻿using API_listaTelefone.DataContext;
 using API_listaTelefone.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace API_listaTelefone.Service.PessoaService
 {
@@ -11,7 +12,7 @@ namespace API_listaTelefone.Service.PessoaService
             _context = context;
         }
 
-        public Task<ServiceResponse<List<Pessoa>>> CreatePessoa(Pessoa novaPessoa)
+        public async Task<ServiceResponse<List<Pessoa>>> CreatePessoa(Pessoa novaPessoa)
         {
             ServiceResponse<List<Pessoa>> serviceResponse = new ServiceResponse<List<Pessoa>>();
             try
@@ -25,7 +26,8 @@ namespace API_listaTelefone.Service.PessoaService
                     return serviceResponse;
                 }
 
-              
+                
+                
                 _context.Add(novaPessoa);
                 await _context.SaveChangesAsync();
 
@@ -44,9 +46,40 @@ namespace API_listaTelefone.Service.PessoaService
 
         }
 
-        public Task<ServiceResponse<List<Pessoa>>> DeletePessoa(int id)
+        public async Task<ServiceResponse<List<Pessoa>>> DeletePessoa(int id)
         {
-            throw new NotImplementedException();
+            ServiceResponse<List<Pessoa>> serviceResponse = new ServiceResponse<List<Pessoa>>();
+
+            try
+            {
+                Pessoa pessoa = _context.Pessoa.FirstOrDefault(x => x.Id == id);
+
+                if (pessoa == null)
+                {
+                    serviceResponse.Dados = null;
+                    serviceResponse.Mensagem = "Usuário não localizado!";
+                    serviceResponse.Sucesso = false;
+
+                    return serviceResponse;
+                }
+
+
+                _context.Pessoa.Remove(pessoa);
+                await _context.SaveChangesAsync();
+
+
+                serviceResponse.Dados = _context.Pessoa.ToList();
+
+            }
+            catch (Exception ex)
+            {
+                serviceResponse.Mensagem = ex.Message;
+                serviceResponse.Sucesso = false;
+            }
+
+            return serviceResponse;
+
+
         }
 
         public async Task<ServiceResponse<List<Pessoa>>> GetPessoa()
@@ -74,7 +107,8 @@ namespace API_listaTelefone.Service.PessoaService
             return serviceResponse;
         }
 
-        public Task<ServiceResponse<Pessoa>> GetPessoaId(int id)
+
+        public async Task<ServiceResponse<Pessoa>> GetPessoaById(int id)
         {
             ServiceResponse<Pessoa> serviceResponse = new ServiceResponse<Pessoa>();
             try
@@ -103,9 +137,36 @@ namespace API_listaTelefone.Service.PessoaService
 
         }
 
-        public Task<ServiceResponse<List<Pessoa>>> UpdatePessoa(Pessoa editadoFuncionario)
+        public async Task<ServiceResponse<List<Pessoa>>> UpdatePessoa(Pessoa editadoPessoa)
         {
-            throw new NotImplementedException();
+            ServiceResponse<List<Pessoa>> serviceResponse = new ServiceResponse<List<Pessoa>>();
+
+            try
+            {
+                Pessoa pessoa = _context.Pessoa.AsNoTracking().FirstOrDefault(x => x.Id == editadoPessoa.Id);
+
+                if (pessoa == null)
+                {
+                    serviceResponse.Dados = null;
+                    serviceResponse.Mensagem = "Usuário não localizado!";
+                    serviceResponse.Sucesso = false;
+                }
+
+                _context.Pessoa.Update(editadoPessoa);
+                await _context.SaveChangesAsync();
+
+                serviceResponse.Dados = _context.Pessoa.ToList();
+
+            }
+            catch (Exception ex)
+            {
+                serviceResponse.Mensagem = ex.Message;
+                serviceResponse.Sucesso = false;
+            }
+
+            return serviceResponse; ;
         }
+
+        
     }
 }

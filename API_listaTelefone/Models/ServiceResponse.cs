@@ -1,5 +1,6 @@
 ﻿namespace API_listaTelefone.Models
 {
+    
     public class ServiceResponse<T>
     {
         public T? Dados { get; set; }
